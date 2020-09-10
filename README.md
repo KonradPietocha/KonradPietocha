@@ -7,6 +7,8 @@ Forgive me. Some of this projects are still in progress 😄
 [JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)
 <br>
 [REACT-TABLE](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)
+<br>
+### ...and more code 👇 
 
 <!--
 **KonradPietocha/KonradPietocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
