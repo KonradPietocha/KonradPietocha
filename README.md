@@ -6,7 +6,7 @@ Forgive me. Some of this projects are still in progress 😄
 <br>
 [JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)
 <br>
-[Currency](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)
+[CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)
 <br>
 ### ...and more code 👇 
 
