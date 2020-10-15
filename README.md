@@ -8,6 +8,8 @@ Forgive me. Some of this projects are still in progress 😄
 <br>
 [CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)
 <br>
+[GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code](https://github.com/KonradPietocha/grocery-store)
+<br>
 ### ...and more code 👇 
 
 <!--
