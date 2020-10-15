@@ -4,11 +4,11 @@ I'm a frontend developer and love to grow and learn (not only frontend) technolo
 ### My pages:
 Forgive me. Some of this projects are still in progress 😄
 <br>
-[JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)
+[JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)-->React, Redux
 <br>
-[CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)
+[CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)-->React, Hooks
 <br>
-[GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code](https://github.com/KonradPietocha/grocery-store)
+[GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code](https://github.com/KonradPietocha/grocery-store)-->Angular, TypeScript
 <br>
 ### ...and more code 👇 
 
