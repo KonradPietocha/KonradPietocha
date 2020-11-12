@@ -10,7 +10,9 @@ Forgive me. Some of this projects are still in progress 😄
 <br>
 [GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code](https://github.com/KonradPietocha/grocery-store)-->Angular, TypeScript
 <br>
-### ...and more code 👇 
+### ...and all repositories 👇 
+<br>
+[more code here](https://github.com/KonradPietocha?tab=repositories)
 
 <!--
 **KonradPietocha/KonradPietocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
