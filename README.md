@@ -11,7 +11,7 @@ Forgive me. Some of this projects are still in progress 😄
 [GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code](https://github.com/KonradPietocha/grocery-store)-->Angular, TypeScript
 <br>
 ### ...and all repositories 👇
-https://github.com/KonradPietocha?tab=repositories
+[more code here](https://github.com/KonradPietocha?tab=repositories)
 <br>
 
 <!--
