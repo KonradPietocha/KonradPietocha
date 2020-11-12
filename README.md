@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a frontend developer and love to grow and learn (not only frontend) technologies. Currently, I work at <b>Vanto IT Solutions</b> where I'm a junior software developer, building great applications for our clients, especially for [MOTO-PROFIL](https://moto-profil.pl/) and [PROFIAUTO](https://profiauto.pl/). Unfortunately, on this github you can view only my own public repositories  👇, which is only a part of what I do on a daily basis.
+I'm a frontend developer and love to grow and learn (not only frontend) technologies. Currently, I work at <b>Vanto IT Solutions</b> where I'm a junior software developer, building great applications for our clients, especially for [MOTO-PROFIL](https://moto-profil.pl/), [AGATA-MEBLE](https://www.agatameble.pl/) and [PROFIAUTO](https://profiauto.pl/). Unfortunately, on this github you can view only my own public repositories  👇, which is only a part of what I do on a daily basis.
 <br>
 ### My pages:
 Forgive me. Some of this projects are still in progress 😄
