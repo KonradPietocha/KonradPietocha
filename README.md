@@ -2,8 +2,6 @@
 I'm a frontend developer and love to grow and learn (not only frontend) technologies. Currently, I work at <b>Vanto IT Solutions</b> where I'm a junior software developer, building great applications for our clients ( [MOTO-PROFIL](https://moto-profil.pl/), [AGATA-MEBLE](https://www.agatameble.pl/), [PROFIAUTO](https://profiauto.pl/) ). Unfortunately, on this github you can view only my own public repositories  👇, which is only a part of what I'm doing on a daily basis.
 <br>
 ### My pages:
-Forgive me. Some of this projects are still in progress 😄
-<br>
 [JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)-->React, Redux
 <br>
 [CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)-->React, Hooks
