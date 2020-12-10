@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a frontend developer and I like to develop and learn (not only frontend) technologies. I am currently working at <b>Vanto IT Solutions</b> where I'm a junior software developer. We build great applications for clients such as [MOTO-PROFIL](https://moto-profil.pl/), [AGATA-MEBLE](https://www.agatameble.pl/), [PROFIAUTO](https://profiauto.pl/). Unfortunately, on this github you can view only my own public repositories  👇, which is only a small part of what I'm doing on a daily basis.
+I'm a frontend developer and I like to develop and learn (not only frontend) technologies. I am currently working at <b>Vanto IT Solutions</b> where I'm a junior software developer. We build great applications for clients such as [MOTO-PROFIL](https://moto-profil.pl/), [AGATA-MEBLE](https://www.agatameble.pl/), [PROFIAUTO](https://profiauto.pl/). Unfortunately, here you can view only my own public repositories  👇, which is only a small part of what I'm doing on a daily basis.
 <br>
 ### My pages:
 [JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)-->React, Redux
