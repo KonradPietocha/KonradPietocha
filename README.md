@@ -2,11 +2,11 @@
 I'm a software (javascript) developer.
 <br>
 ### My pages:
-[JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)-->React, Redux
-<br>
 [CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)-->React, Hooks
 <br>
 [GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code](https://github.com/KonradPietocha/grocery-store)-->Angular, TypeScript
+<br>
+[JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)-->React, Redux
 <br>
 ### ...and all repositories 👇
 [more code here](https://github.com/KonradPietocha?tab=repositories)
