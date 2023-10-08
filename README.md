@@ -4,7 +4,7 @@ I'm a software (javascript) developer.
 ### My pages:
 [CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)-->React, Hooks
 <br>
-[GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code](https://github.com/KonradPietocha/grocery-store)-->Angular, TypeScript
+[GROCERY STORE](https://konradpietocha.github.io//grocery-store//) ***** [source code]([https://github.com/KonradPietocha/grocery-store](https://konradpietocha.github.io/grocery-store/home)-->Angular, TypeScript
 <br>
 [JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)-->React, Redux
 <br>
