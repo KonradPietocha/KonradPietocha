@@ -1,14 +1,14 @@
 ### Hi there 👋
-I'm a software (javascript) developer.
+I'm a software (javascript) developer. Currently working at SAP ad senior software engineer.
 <br>
-### My pages:
+### My own pages:
 [CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)-->React, Hooks
 <br>
 [GROCERY STORE](https://konradpietocha.github.io/grocery-store/home) ***** [source code](https://github.com/KonradPietocha/grocery-store)-->Angular, TypeScript
 <br>
 [JUSTINE GALLERY](https://konradpietocha.github.io/Justine-Gallery/) ***** [source code](https://github.com/KonradPietocha/Justine-Gallery)-->React, Redux
 <br>
-### ...and all repositories 👇
+### ...and all my repositories (Busola and Price Calculator are open source SAP projects)  👇
 [more code here](https://github.com/KonradPietocha?tab=repositories)
 <br>
 
