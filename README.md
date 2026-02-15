@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software (javascript) developer. Currently working at SAP ad senior software engineer.
+I'm a software (javascript) developer. Currently working at SAP as a senior software engineer.
 <br>
 ### My own pages:
 [CURRENCY](https://konradpietocha.github.io/react-table/) ***** [source code](https://github.com/KonradPietocha/react-table)-->React, Hooks
